@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Golam Kibria Shuvo</h1>
 <h3 align="center">Hard-working web developer with a flair for creating elegant solutions in the least amount of time. Take a keen interest in current and upcoming web development technologies and have a passion for all things software engineering and problem solving related.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=g-k-shuvo&label=Profile%20views&color=0e75b6&style=flat" alt="g-k-shuvo" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=g-k-shuvo" alt="g-k-shuvo" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://g-k-shuvo.github.io](https://g-k-shuvo.github.io)
 
 - 📫 How to reach me **gkshuvo24@gmail.com**
